@@ -4,7 +4,7 @@
 GQRX controller allows you to control GQRX with a physical interface. Actually you can control the frequency you are listening at and the type of demodulation.
 
 ## Video
-Watch the [video](https://processing.org).
+Watch the [video](https://youtu.be/JTABJ4Jf9qA).
 
 ## Technical informations
 Actually, the Arduino uses the serial port to communicate with the computer. This data is collected by a [processing](https://processing.org) programme which pipe the data in TCP/IP to GQRX.
